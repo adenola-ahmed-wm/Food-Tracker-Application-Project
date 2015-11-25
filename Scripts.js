@@ -21,7 +21,7 @@ function getInputItem() {
         desc: descInput.value,
         date: dateInput.value,
         life: lifeInput.value,
-        exp: expInput.value,
+        exp: expInput.value
     };
     return item;
 }
